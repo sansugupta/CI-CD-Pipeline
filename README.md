@@ -1,5 +1,6 @@
 # Enterprise CI/CD Pipeline Implementation
 🚀 A comprehensive implementation of a CI/CD pipeline using Jenkins, SonarQube, Docker, Kubernetes, and Argo CD for a Spring Boot application.
+![CI/CD Pipeline](images/Untitled_picture.png)
 
 ## 📌 Project Highlights:
 
